@@ -1,7 +1,6 @@
 <?php
 /**
  * Plugin Name: Movies
- * Plugin URI: 
  * Description: A plugin to manage movies.
  * Version: 1.0.0
  * Author: Melita Poropat
